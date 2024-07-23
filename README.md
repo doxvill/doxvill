@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doxvill
-- 👀 I’m interested in UX/UI & light coding
-- 🌱 I’m currently learning front-end coding
-- 📫 How to reach me doxvill@gmail.com
+- 👀 I’m interested in UX/UI
+- 🌱 Currently learning Swift
+- 📫 How to reach me https://t.me/sajdalin
 
 <!---
 doxvill/doxvill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
