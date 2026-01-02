@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azat Sapar
 - 👀 I’m interested in UX/UI & Vibe Coding
-- 🌱 Currently Framer
+- 🌱 Currently learning Framer
 - 📫 How to reach me https://t.me/azat_sapar
 
 <!---
